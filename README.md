@@ -1,5 +1,5 @@
 Hi, I'm @TLMHoang-AI (Tran Ly Minh Hoang)  
-I'm passionate about artificial intelligence, computer vision, and game development.
+I'm passionate about artificial intelligence and computer vision.
 
 Currently studying AI Engineering at FPT University.  
 I enjoy building AI-powered applications and interactive tools that solve real-world problems.
@@ -19,7 +19,7 @@ I enjoy building AI-powered applications and interactive tools that solve real-w
 - Developing computer vision models for plant disease detection
 - Building a full Mask R-CNN pipeline from scratch with PyTorch
 - Exploring Vision Transformers (ViT, Swin) for image-based tasks
-- Working on an educational AI + Game hybrid project
+- Working on an educational AI project
 - Participating in AI competitions (ResConnect, ResFest)
 
 ---
@@ -36,4 +36,3 @@ I enjoy building AI-powered applications and interactive tools that solve real-w
 📫 Connect with me:
 - GitHub: https://github.com/TLMHoang-AI  
 - Email: minhhoangtran041105@gmail.com  
-- Discord: (Send me your tag instead of using the channels link)
