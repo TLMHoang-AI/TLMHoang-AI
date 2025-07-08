@@ -9,8 +9,6 @@ I enjoy building AI-powered applications and interactive tools that solve real-w
 🔍 Interests:
 - Machine Learning & Deep Learning (CNNs, Transformers)
 - Image Classification, Segmentation, and Object Detection
-- Audio Analysis & Time-series Processing
-- Game development with Python or Unity
 - Research projects in smart agriculture and automation
 
 ---
