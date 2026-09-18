@@ -1,36 +1,34 @@
-Hi, I'm @TLMHoang-AI (Tran Ly Minh Hoang)  
-I'm passionate about artificial intelligence and computer vision.
+# Hi, I'm Hoang
 
-Currently studying AI Engineering at FPT University.  
-I enjoy building AI-powered applications and interactive tools that solve real-world problems.
+I'm an AI Engineering student at FPT University, mainly working on computer vision and deep learning.
 
----
+Most of my work focuses on model development and optimization — experimenting with architectures, loss functions, training strategies, and evaluating how well different approaches generalize across datasets. I also enjoy building end-to-end AI systems when a project goes beyond model training.
 
-🔍 Interests:
-- Machine Learning & Deep Learning (CNNs, Transformers)
-- Image Classification, Segmentation, and Object Detection
-- Research projects in smart agriculture and automation
+## Selected work
 
----
+- [**U-DeepCrack**](https://github.com/TLMHoang-AI/DeepCrack)  
+  Road crack segmentation with architecture design, loss optimization, adaptive weighting, and cross-dataset evaluation.
 
-💡 Current Activities:
-- Developing computer vision models for plant disease detection
-- Building a full Mask R-CNN pipeline from scratch with PyTorch
-- Exploring Vision Transformers (ViT, Swin) for image-based tasks
-- Working on an educational AI project
-- Participating in AI competitions (ResConnect, ResFest)
+- [**Text2Sign**](https://github.com/TLMHoang-AI/Text2Sign)  
+  Vietnamese text-to-sign language pipeline combining NLP, human motion processing, SMPL-X/AMASS, and 3D avatar animation.
 
----
+- [**Bee Swarming Detection**](https://github.com/TLMHoang-AI/BeeSwarming)  
+  Acoustic classification using MFCC, STFT, Chroma, feature selection, and classical machine learning.
 
-📌 Future Plans & Ideas:
-- Create a lightweight mobile/web app for real-time disease detection
-- Build a mini-game where users compete against an AI model in classification tasks
-- Write blogs/tutorials to document AI projects and share learning experiences
-- Contribute to open-source AI projects (e.g., PyTorch, Ultralytics YOLO)
-- Learn Reinforcement Learning for game AI agents
+- [**LeafNet**](https://github.com/TLMHoang-AI/LeafNet)  
+  Plant disease classification experiments across classical ML, CNNs, and Vision Transformers.
 
----
+## Recent highlights
 
-📫 Connect with me:
-- GitHub: https://github.com/TLMHoang-AI  
-- Email: minhhoangtran041105@gmail.com  
+- Co-author of a chest X-ray DICOM preprocessing study presented at **APWeb-WAIM 2026**, awarded **Best Paper – Special Track**.
+- **Team Leader** at Research Connect 2025 and 2026, reaching the **Top 12 Finalists** in both editions.
+- Former **AI Engineer & Python Developer Intern at FPT Software**.
+
+## Tools I work with
+
+Python · PyTorch · TensorFlow · Scikit-learn · OpenCV · FastAPI · Docker · PostgreSQL · Git
+
+## Contact
+
+**Email:** minhhoangtran041105@gmail.com  
+**GitHub:** [TLMHoang-AI](https://github.com/TLMHoang-AI)
